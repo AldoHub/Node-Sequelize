@@ -1,0 +1,12 @@
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiYWxkb2NhYXZhQGhvdG1haWwuY29tIiwiaWF0IjoxNjI1NTE2NDk5LCJleHAiOjE2MjU1MjM2OTl9.HmsGJixzHJj97ZyDD1SXxgC8EWgEqy4wmfDzNL_6oak",
+    "user": {
+        "id": 1,
+        "email": "aldocaava@hotmail.com",
+        "password": "$2b$10$y0qyPaKd/Nny9eccL5Ioeu63KXyiSkmJXD/izd9uVJ97GRd/2Y0oq",
+        "avatarUrl": "avatar-1625516499191.jpg",
+        "avatarname": "avatar-1625516499191.jpg",
+        "updatedAt": "2021-07-05T20:21:39.271Z",
+        "createdAt": "2021-07-05T20:21:39.271Z"
+    }
+}
